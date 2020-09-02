@@ -1,0 +1,8 @@
+name: Dice
+version: ${project.version}
+main: practice.tonatsumi.dice.Dice
+api-version: 1.14
+commands:
+  dice:
+    description: roll 6dice
+
